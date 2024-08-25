@@ -1,2 +1,2 @@
-# new-game0
- Training for gamedev
+# Zero game
+This is an indie game project made on Unity specifically for Yandex Games.
